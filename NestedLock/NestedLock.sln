@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLock", "NestedLock\NestedLock.csproj", "{69123ED8-C124-4306-B630-198714651603}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69123ED8-C124-4306-B630-198714651603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69123ED8-C124-4306-B630-198714651603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69123ED8-C124-4306-B630-198714651603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69123ED8-C124-4306-B630-198714651603}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadingLambdaExpression", "MultithreadingLambdaExpression\MultithreadingLambdaExpression.csproj", "{B473DCF3-DC5E-4E2D-A8DC-3F33C271F17A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B473DCF3-DC5E-4E2D-A8DC-3F33C271F17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B473DCF3-DC5E-4E2D-A8DC-3F33C271F17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B473DCF3-DC5E-4E2D-A8DC-3F33C271F17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B473DCF3-DC5E-4E2D-A8DC-3F33C271F17A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

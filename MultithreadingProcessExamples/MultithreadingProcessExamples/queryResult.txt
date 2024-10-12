@@ -1,0 +1,95 @@
+---- Beginning of query result ---- 
+ name                                                                          
+	                                                   
+ ------------------------------------------------------------------------------
+	-------------------------------------------------- 
+ master                                                                        
+	                                                   
+ tempdb                                                                        
+	                                                   
+ model                                                                         
+	                                                   
+ msdb                                                                          
+	                                                   
+ validation_demomodel_663                                                      
+	                                                   
+ ext_strom_demomodel_663                                                       
+	                                                   
+ material_demomodel_663                                                        
+	                                                   
+ asset_ael_demomodel_663                                                       
+	                                                   
+ ext_asset_gas_demomodel_663                                                   
+	                                                   
+ asset_adh_demomodel_663                                                       
+	                                                   
+ erp_demomodel_663                                                             
+	                                                   
+ smarttag_demomodel_663                                                        
+	                                                   
+ asset_aga_demomodel_663                                                       
+	                                                   
+ consumer_demomodel_663                                                        
+	                                                   
+ asset_wastewater_demomodel_663                                                
+	                                                   
+ switchboard_demomodel_663                                                     
+	                                                   
+ survey_view_demomodel_663                                                     
+	                                                   
+ outage_demomodel_663                                                          
+	                                                   
+ diagnostics_demomodel_663                                                     
+	                                                   
+ logbook_demomodel_663                                                         
+	                                                   
+ survey_demomodel_663                                                          
+	                                                   
+ easement_demomodel_663                                                        
+	                                                   
+ asset_awa_demomodel_663                                                       
+	                                                   
+ message_demomodel_663                                                         
+	                                                   
+ asset_equi_demomodel_663                                                      
+	                                                   
+ invest_demomodel_663                                                          
+	                                                   
+ asset_aba_demomodel_663                                                       
+	                                                   
+ relations_demomodel_663                                                       
+	                                                   
+ monitor_demomodel_663                                                         
+	                                                   
+ asset_are_demomodel_663                                                       
+	                                                   
+ control_demomodel_663                                                         
+	                                                   
+ ext_gas_demomodel_663                                                         
+	                                                   
+ asset_light_demomodel_663                                                     
+	                                                   
+ checklist_demomodel_663                                                       
+	                                                   
+ design_demomodel_663                                                          
+	                                                   
+ asset_district_demomodel_663                                                  
+	                                                   
+ project_demomodel_663                                                         
+	                                                   
+ supply_demomodel_663                                                          
+	                                                   
+ timesheet_demomodel_663                                                       
+	                                                   
+ ext_wasser_demomodel_663                                                      
+	                                                   
+ documents_storage_demomodel_663                                               
+	                                                   
+ task_demomodel_663                                                            
+	                                                   
+ Zza                                                                           
+	                                                   
+
+(43 rows affected)
+
+---- End of query result ---- 
