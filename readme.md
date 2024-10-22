@@ -1,9 +1,11 @@
 # Genesis
-Code is based on my master's thesis. Hope I will contiune
+The code is based on my master's thesis. Performance and synchronization aspects in .NET multithreading applications
 
 
 # Technologi used
 - .NET
+- Multithreading
+- Synchronization
 
 # Example
 
